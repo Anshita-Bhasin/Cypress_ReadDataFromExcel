@@ -1,0 +1,23 @@
+{
+  "name": "cypress_readdatafromexcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshita-Bhasin/Cypress_ReadDataFromExcel.git"
+  },
+  "author": "Anshita Bhasin <anshita@propertyfinder.ae>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshita-Bhasin/Cypress_ReadDataFromExcel/issues"
+  },
+  "homepage": "https://github.com/Anshita-Bhasin/Cypress_ReadDataFromExcel#readme",
+  "dependencies": {
+    "cypress": "^12.12.0",
+    "xlsx": "^0.18.5"
+  }
+}
