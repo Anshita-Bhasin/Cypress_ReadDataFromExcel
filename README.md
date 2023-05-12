@@ -12,7 +12,10 @@ This repo contains code for reading data from excel in Cypress
 
 
 tests>excelTest.cy.js is the fileName
+
 testData>registerData.xlsx contains the excel data
+
+
 cypress.config.js contains all the config
 
 Install plugin xlsx using **npm install xlsx**
